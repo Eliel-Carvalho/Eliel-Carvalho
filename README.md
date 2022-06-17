@@ -4,7 +4,7 @@
   <a href = "elielbomfim027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/dev_eliel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a>  
-</div><br>
+</div>
 <div>
   <a href="https://github.com/Eliel-Carvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliel-Carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
