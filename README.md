@@ -1,4 +1,4 @@
-### Ola, eu sou Eliel Carvalho, desenvolvedor Front-End e criador de conteudo sobre programação 👋
+### Ola, eu sou Eliel Carvalho, desenvolvedor Front-End 👋
 
 ##
 
